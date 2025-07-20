@@ -1,4 +1,4 @@
-package Dominio;
+package Atracciones;
 
 public class AutosChocadores {
     private int capacidad, cantidadActual;
